@@ -5,10 +5,10 @@ export const BASE_URL = DOMAIN_URL.endsWith("/") ? DOMAIN_URL.slice(0, -1) : DOM
 
 export const SITE_CONFIG = {
   title: "Yasiru Rahul - Full Stack Developer Portfolio | MERN & React Native",
-  description: "Portfolio of Yasiru Rahul, an aspiring Full Stack Developer & BICT (Hons) Undergraduate specializing in MERN Stack and React Native.",
+  description: "Portfolio of Yasiru Rahul, a Full Stack Developer specializing in React, Next.js, NestJS, Node.js, MongoDB, and React Native.",
   url: BASE_URL,
   siteName: "Yasiru Rahul",
-  keywords: ["Yasiru Rahul", "Full Stack Developer", "MERN Stack", "React Native", "Sri Lanka", "Web Developer"],
+  keywords: ["Yasiru Rahul", "Full Stack Developer", "MERN Stack", "NestJS", "React Native", "Sri Lanka", "Web Developer"],
   ogImage: "/profile v4.png",
   icons: {
     icon: "/profile v4.png", 

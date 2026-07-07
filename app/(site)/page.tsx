@@ -13,13 +13,15 @@ import Script from "next/script"
 export const metadata: Metadata = {
   title: SITE_CONFIG.title,
   description:
-    "Explore the Full-Stack developer portfolio of Yasiru Rahul, a full-stack engineer building fast, modern web applications. See what a professional coding portfolio looks like, featuring projects in React, Next.js, and the custom-built React-Zero-UI library.",
+    "Full-stack developer portfolio of Yasiru Rahul, showcasing React, Next.js, NestJS, Node.js, MongoDB, and React Native projects.",
 
   keywords: [
     "Yasiru Rahul",
+    "Yasiru",
     "Full-Stack Portfolio",
     "Full-Stack Developer",
     "Mern Stack",
+    "NestJS",
     "Next.js",
     "React",
     "software engineer developer",
